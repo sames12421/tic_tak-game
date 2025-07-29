@@ -80,8 +80,8 @@ Distributed under the [Choose your License - e.g., MIT License, GNU GPLv3] Licen
 
 ## 📧 Contact
 
-Your Name - [Your Email]
-Project Link: [https://github.com/YourUsername/tic-tac-toe](https://github.com/YourUsername/tic-tac-toe)
+Your Name - [retujawalkars@gmail.com]
+Project Link: [https://github.com/sames12421/tic-tac-toe]([https://github.com/sames12421/tic-tac-toe](https://colab.research.google.com/drive/1GI9ebjEMqJ3TNY5XSOkUavvI1uRNmxt0#scrollTo=U8LYuQZswDP1))
 
 ---
 
